@@ -2,8 +2,6 @@
 title:
 description:
 price:
-sizes:
-  -
 styles:
   - name:
     color:
