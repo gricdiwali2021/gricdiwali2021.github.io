@@ -12,7 +12,7 @@ styles:
   - name: Orange
     color: '#9c5145'
     image_path: /images/products/round/orange.jpg
-featured_image_path: /images/products/deer/orange.jpg
+featured_image_path: /images/products/round/orange.jpg
 ---
 
 Beautiful hand made diyas perfect for decorating around the house.
