@@ -4,7 +4,6 @@ description: Hand crafted Diwali Diyas created by Renuka Self-Help-Group Rural w
 sidebar_option: no-sidebar
 featured_image_path:
 facebook_image_path:
-layout: default
 ---
 
 These hand crafted products are created by Renuka Self-Help-Group Rural women micro credit groups as an alternative means of lively hood.
