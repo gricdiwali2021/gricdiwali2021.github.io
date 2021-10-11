@@ -11,7 +11,7 @@ layout: default
   <div class="wrap">
     <div class="content-sidebar-wrap">
 
-      <main class="content grid">
+      <main class="content">
       <header class="entry-header">
         <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
       </header>
@@ -22,6 +22,7 @@ layout: default
         <p>All items ordered online, will be available for pick up at the <a href="https://fb.me/e/235YJKQIP" target="_blank">Glen Rock Diwali Fest</a>
         on <b>October 23rd, 2021</b> held at <a href="https://goo.gl/maps/MzM6FFK5q2sWjqn18">Glen Rock Athletic Club</a>.</p>
       </div>
+      <main class="grid">
         {% for product in site.products %}
           <section class="entry one-third styles" itemscope itemtype="http://schema.org/Product">
 
@@ -42,6 +43,7 @@ layout: default
 
           </section>
         {% endfor %}
+        </main>
       </main>
 
       {% if page.sidebar_option == 'sidebar' %}{% include sidebar.html %}{% endif %}
