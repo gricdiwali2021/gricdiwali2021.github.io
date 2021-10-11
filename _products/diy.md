@@ -12,4 +12,4 @@ styles:
 featured_image_path: /images/products/diy/diy2.jpg
 ---
 
-These simple DIY diya kits are for you too make them on your own, and experience the process followed by these women. The kits are premade for basic parts and need your creative ideas for assembly.
+Simple DIY diya kits are for you too make them on your own.
