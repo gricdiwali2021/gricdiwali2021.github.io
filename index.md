@@ -1,5 +1,5 @@
 ---
-title: Glen Rock Diwali - Diya Sale
+title: Diwali Diyas
 description: Hand crafted Diwali Diyas created by Renuka Self-Help-Group Rural women micro credit NGO. These diyas are hand crafted by the women under the program as an alternative means of lively hood, away from toxic cigarette making.
 sidebar_option: no-sidebar
 featured_image_path:
@@ -13,6 +13,10 @@ All items ordered online, will be available for pick up at the Glen Rock [Diwali
 <div class="site-inner">
   <div class="wrap">
     <div class="content-sidebar-wrap">
+
+    <header class="entry-header">
+      <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
+    </header>
 
       <main class="content grid">
         {% for product in site.products %}
