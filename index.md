@@ -4,33 +4,34 @@ description: Hand crafted Diwali Diyas created by Renuka Self-Help-Group Rural w
 sidebar_option: no-sidebar
 featured_image_path:
 facebook_image_path:
+layout:default
 ---
 
 These hand crafted products are created by Renuka Self-Help-Group Rural women micro credit groups as an alternative means of lively hood.
 
 All items ordered online, will be available for pick up at the Glen Rock [Diwali Fest](https://fb.me/e/235YJKQIP) on **October 23rd, 2021** held at [Glen Rock Athletic Club](https://goo.gl/maps/MzM6FFK5q2sWjqn18).
 
-    <main class="grid">
-      {% for product in site.products %}
-        <section class="entry one-third styles" itemscope itemtype="http://schema.org/Product">
+<div class="content-sidebar-wrap">
+  <main class="content grid">
+    {% for product in site.products %}
+      <section class="entry one-third styles" itemscope itemtype="http://schema.org/Product">
 
-      		<div class="style">
-      			<a href="{{ product.url }}">
-      				<img src="{{ product.featured_image_path }}" itemprop="image">
-      			</a>
-      		</div>
+    		<div class="style">
+    			<a href="{{ product.url }}">
+    				<img src="{{ product.featured_image_path }}" itemprop="image">
+    			</a>
+    		</div>
 
-          <div class="product-details">
-            <div class="product-name">
-		          <h4><a href="{{ product.url }}">{{ product.title }}</a></h4>
-            </div>
-            <div class="product-price">
-						  <p>&#x24;{{ product.price }}</p>
-            </div>
-					</div>
+        <div class="product-details">
+          <div class="product-name">
+	          <h4><a href="{{ product.url }}">{{ product.title }}</a></h4>
+          </div>
+          <div class="product-price">
+					  <p>&#x24;{{ product.price }}</p>
+          </div>
+				</div>
 
-        </section>
-      {% endfor %}
-    </main>
-
-    {% if page.sidebar_option == 'sidebar' %}{% include sidebar.html %}{% endif %}
+      </section>
+    {% endfor %}
+  </main>
+</div>
