@@ -13,3 +13,5 @@ These diyas are hand crafted by the women under the program as an alternative me
 All items ordered online, will be available for pick up at the Glen Rock [Diwali Fest](https://fb.me/e/235YJKQIP) on **October 23rd, 2021** held at [Glen Rock Athletic Club](https://goo.gl/maps/MzM6FFK5q2sWjqn18).
 
 Check the different types of [diyas](/products) available.
+
+All funds raised from this campaign will be use to payback the micro credit groups and also as revenue back to the women.
