@@ -15,3 +15,7 @@ All items ordered online, will be available for pick up at the Glen Rock [Diwali
 Check the different types of [diyas](/products) available.
 
 All funds raised from this campaign will be use to payback the micro credit groups and also as revenue back to the women.
+
+## Shilpa Mehta
+
+Talk about Shilpa's connection and relation to the organization and how she helps..
