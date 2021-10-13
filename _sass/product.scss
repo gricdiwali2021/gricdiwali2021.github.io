@@ -43,6 +43,12 @@
     -webkit-appearance: inherit;
   }
 
+  .display-block {
+    display: inline-block;
+    border: 1px #000;
+    padding: 2px;
+  }
+
 }
 
 .product {
