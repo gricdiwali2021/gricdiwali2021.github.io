@@ -12,7 +12,10 @@ styles:
   - name: Green
     color: '#92A002'
     image_path: /images/products/square/green.jpg
+  - name: Surprise!
+    color: '#15081B'
+    image_path: /images/products/square/pink2.jpg    
 featured_image_path: /images/products/square/green.jpg
 ---
 
-Beautiful hand made diyas perfect for decorating around the house.
+Beautiful hand made diyas perfect for decorating around the house. You can also pick a random color from our inventory.

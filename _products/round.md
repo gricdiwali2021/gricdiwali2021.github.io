@@ -12,10 +12,10 @@ styles:
   - name: Sunrise
     color: Sunrise
     image_path: /images/products/round/orange.jpg
-  # - name: Red
-  #   color: '#8E2B27'
-  #   image_path: /images/products/round/orange2.jpg
+  - name: Surprise! 
+    color: '#8E2B27'
+    image_path: /images/products/round/orange2.jpg
 featured_image_path: /images/products/round/orange.jpg
 ---
 
-Beautiful hand made diyas perfect for decorating around the house.
+Beautiful hand made diyas perfect for decorating around the house. You can also pick a random color from our inventory.
