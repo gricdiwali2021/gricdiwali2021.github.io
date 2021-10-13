@@ -18,4 +18,6 @@ styles:
 featured_image_path: /images/products/square/green.jpg
 ---
 
-Beautiful hand made diyas perfect for decorating around the house. You can also pick a random color from our inventory.
+Beautiful hand made diyas perfect for decorating around the house. 
+
+You can also pick a random color from our inventory.
