@@ -6,9 +6,6 @@ styles:
   - name: Kit 1
     color: '#92A002'
     image_path: /images/products/diy/diy1.jpg
-  - name: Kit 2
-    color: '#0073C1'
-    image_path: /images/products/diy/diy2.jpg
 featured_image_path: /images/products/diy/diy2.jpg
 ---
 
