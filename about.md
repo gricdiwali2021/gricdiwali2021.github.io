@@ -14,7 +14,7 @@ All items ordered online, will be available for pick up at the Glen Rock [Diwali
 
 Check the different types of [diyas](/products) available.
 
-All funds raised from this campaign will be use to payback the micro credit groups and also as revenue back to the women.
+All funds raised from this campaign will be use to payback the micro credit groups and also as 100% revenue back to the women.
 
 ## The Team
 
