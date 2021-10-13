@@ -12,4 +12,6 @@ styles:
 featured_image_path: /images/products/diy/diy2.jpg
 ---
 
-Simple DIY diya kits are for you too make them on your own.
+Simple DIY diya kits are for you too make them on your own. 
+
+<sub>Color set not gauranteed, colors might vary</sub>
