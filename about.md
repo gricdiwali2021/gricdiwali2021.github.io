@@ -16,11 +16,11 @@ Check the different types of [diyas](/products) available.
 
 All funds raised from this campaign will be use to payback the micro credit groups and also as revenue back to the women.
 
-## Shilpa Mehta
+## The Team
 
-Talk about Shilpa's connection and relation to the organization and how she helps..
+This website is hosted and maintained by Shilpa Mehta & Puja Mathur. With support from 
 
- * Monkey 1 - Aanya 
- * Monkey 2 - Ayushi 
- * Monkey 3 - Gayatri
- * Monkey 4 - Tanvi
+* Aanya Nadkarni (5th Grade)
+* Ayushi Sidhwani (6th Grade)
+* Gayatri Mathur (9th Grade)
+* Tanvi Mehta (5th Grade)
