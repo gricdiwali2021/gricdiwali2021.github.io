@@ -1,15 +1,15 @@
 ---
 title: Specialty Diya
-description: A simple diya kit for kids, or you to put it together.
-price: '8.00'
+description: Beautiful hand made diyas, perfect for decorating around the house.
+price: '15.00' 
 styles:
-  - name: Peacock
+  - name: Blue
     color: '#92A002'
-    image_path: /images/products/specialty/blue_sp1.jpg
+    image_path: /images/products/specialty/blue.jpg
   - name: Pink
     color: '#15081B'
-    image_path: /images/products/specialty/pink_sp1.jpg
-featured_image_path: /images/products/specialty/blue_sp1.jpg
+    image_path: /images/products/specialty/pink.jpg
+featured_image_path: /images/products/specialty/pair.jpg
 ---
 
-Beautiful hand made diyas perfect for decorating around the house.
+Beautiful hand made diyas, perfect for decorating around the house.
