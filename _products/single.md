@@ -1,5 +1,5 @@
 ---
-title: Single Diya
+title: Individual Diya
 description: Beautiful hand made diyas, perfect for decorating around the house.
 price: '10.00'
 styles:
