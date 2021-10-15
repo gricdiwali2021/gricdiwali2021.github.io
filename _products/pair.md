@@ -1,7 +1,7 @@
 ---
 title: Pair of Diyas
 description: Beautiful hand made diyas, perfect for decorating around the house.
-price: '20.00'
+price: '21.00'
 styles:
   - name: 3
     color: 3

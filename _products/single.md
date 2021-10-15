@@ -1,7 +1,7 @@
 ---
-title: Individual Diya
+title: One of a kind
 description: Beautiful hand made diyas, perfect for decorating around the house.
-price: '10.00'
+price: '12.00'
 styles:
   - name: 01
     color: 01
