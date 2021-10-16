@@ -22,13 +22,11 @@ Diwali diyas are hand crafted, packaged and pre-shipped to Glen Rock from Pune, 
  * Additional Diyas will also be available at sale at the Diwali Fest
  * [Jnana Prabodhini Foundation](https://www.jnanaprabodhinifoundation.org) is a registered 501(c)(3), please reach out for a receipt of your donation for tax deductible purposes.
 
-## Diya Sales Team @ Glen Rock, NJ
+### Diya Sales Team @ Glen Rock, NJ
 
 Our website is hosted and maintained by Glen Rock residents Shilpa Mehta & Puja Mathur. Shilpa is a co-chair for the fundraising committee at [Jnana Prabodhini Foundation](https://www.jnanaprabodhinifoundation.org). Puja works for [Prevent Child Abuse New Jersey](https://www.facebook.com/pcanj/)
 
 Our team (listed below) has planned the pre-order sales, deliveries and Diwali fest on-spot orders. Throughout the planning stage, we felt motivated and extremely grateful to be part of this work. Please stop by at our table to understand the story so far and get to know us better!
-
-### Students helping (in alphabetical order)
 
 * Aanya Nadkarni (5th Grade)
 * Ayushi Sidhwani (6th Grade)
