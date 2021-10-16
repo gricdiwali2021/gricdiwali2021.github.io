@@ -12,9 +12,9 @@ Diwali diyas are hand crafted, packaged and pre-shipped to Glen Rock from Pune, 
 
 ### Women making Diyas
 
-![Women at Work](/images/jpf_women_1.jpg)
+![Women at Work](/images/jpf/jpf_women_1.jpg)
 
-![Women at Work](/images/jpf_women_2.jpg)
+![Women at Work](/images/jpf/jpf_women_2.jpg)
 
 
  * All items ordered online will be final, any queries can be emailed to [ruraljpf@gmail.com](mailto:ruraljpf@gmail.com)
