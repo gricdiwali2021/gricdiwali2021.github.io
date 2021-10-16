@@ -20,7 +20,7 @@ Diwali diyas are hand crafted, packaged and pre-shipped to Glen Rock from Pune, 
  * All items ordered online will be final, any queries can be emailed to [ruraljpf@gmail.com](mailto:ruraljpf@gmail.com)
  * Diyas ordered online, will be available for pick up at the Glen Rock [Diwali Fest](https://fb.me/e/235YJKQIP) on **October 23rd, 2021** held at [Glen Rock Athletic Club](https://goo.gl/maps/MzM6FFK5q2sWjqn18).
  * Additional Diyas will also be available at sale at the Diwali Fest
- * [Jnana Prabodhini Foundation](https://www.jnanaprabodhinifoundation.org) is a registered 501(c)(3), please reach out for a receipt of your donation for tax deductible purposes.
+ * [Jnana Prabodhini Foundation](https://www.jnanaprabodhinifoundation.org) is a registered **501(c)(3)**, please reach out for a receipt of your donation for tax deductible purposes.
 
 ### Diya Sales Team @ Glen Rock, NJ
 
