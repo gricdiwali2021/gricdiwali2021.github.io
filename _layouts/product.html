@@ -28,7 +28,7 @@ layout: default
             {% for style in page.styles %}
               <!-- <div id="product-{{ forloop.index }}"{% if forloop.first %} class="item_color"{% endif %} style="background-color: {{ style.color }}"><span class="display-none">{{ style.name }}</span></div> -->
               <!-- <div id="product-{{ forloop.index }}"{% if forloop.first %} class="item_color"{% endif %}><span class="display-block">{{ style.name }}</span></div> -->
-              <div id="product-{{ forloop.index }}"{% if style.sold_out %} class="sold-out"{% endif %}><span class="display-block">{{ style.name }}</span></div>
+              <div id="product-{{ forloop.index }}"><span class="display-block{% if style.sold_out %}sold-out{% endif %}">{{ style.name }}</span></div>
               {% endfor %}
         	</div>
 
