@@ -21,9 +21,6 @@ styles:
   - name: 15
     color: 15
     image_path: /images/products/pair/15.jpg
-  - name: 25
-    color: 25
-    image_path: /images/products/pair/25_2.jpg
 featured_image_path: /images/products/pair/13.jpg
 ---
 
