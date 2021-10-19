@@ -3,9 +3,10 @@ title: One of a kind
 description: Beautiful hand made diyas, perfect for decorating around the house.
 price: '12.00'
 styles:
-  - name: '01 (SOLD)'
+  - name: '01'
     color: 01
     image_path: /images/products/single/1.jpg
+    sold_out: true
   - name: 10
     color: 10
     image_path: /images/products/single/10.jpg
@@ -21,9 +22,10 @@ styles:
   - name: 24
     color: 24
     image_path: /images/products/single/24.jpg
-  - name: '25 (SOLD)'
+  - name: '25'
     color: 25
     image_path: /images/products/single/25.jpg
+    sold: true
   - name: 28
     color: 28
     image_path: /images/products/single/28.jpg
@@ -39,9 +41,10 @@ styles:
   - name: 33
     color: 33
     image_path: /images/products/single/33.jpg
-  - name: '34 (SOLD)'
+  - name: '34'
     color: 34
     image_path: /images/products/single/34.jpg
+    sold: true
 featured_image_path: /images/products/single/22.jpg
 ---
 
