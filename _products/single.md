@@ -12,15 +12,9 @@ styles:
   - name: 17
     color: 17
     image_path: /images/products/single/17.jpg
-  - name: 22
-    color: 22
-    image_path: /images/products/single/22.jpg
   - name: 24
     color: 24
     image_path: /images/products/single/24.jpg
-  - name: 28
-    color: 28
-    image_path: /images/products/single/28.jpg
   - name: 29
     color: 29
     image_path: /images/products/single/29.jpg
