@@ -15,9 +15,9 @@ styles:
   - name: 11
     color: 11
     image_path: /images/products/pair/11.jpg
-  - name: 13
-    color: 13
-    image_path: /images/products/pair/13.jpg
+  - name: 9
+    color: 9
+    image_path: /images/products/pair/9.jpg
   - name: 15
     color: 15
     image_path: /images/products/pair/15.jpg
