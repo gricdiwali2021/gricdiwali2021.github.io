@@ -21,7 +21,7 @@ styles:
   - name: 15
     color: 15
     image_path: /images/products/pair/15.jpg
-featured_image_path: /images/products/pair/13.jpg
+featured_image_path: /images/products/pair/15.jpg
 ---
 
 Beautiful hand made diyas, perfect for decorating around the house.
