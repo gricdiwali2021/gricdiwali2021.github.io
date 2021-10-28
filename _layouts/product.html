@@ -30,7 +30,8 @@ layout: default
               <div id="product-{{ forloop.index }}"{% if forloop.first %} class="item_color"{% endif %}><span class="display-block">{{ style.name }}</span></div>
               {% endfor %}
         	</div>
-
+        </section>
+        <section>
           <p class="margin-bottom-0">Quantity:</p>
           {% for style in page.styles %}
             <div id="qty-product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
