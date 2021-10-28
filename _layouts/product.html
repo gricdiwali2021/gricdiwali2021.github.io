@@ -32,7 +32,6 @@ layout: default
         	</div>
 
           <p class="margin-bottom-0">Quantity:</p>
-
           {% for style in page.styles %}
             <div id="product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
               {% if style.quantity == 0 %}
