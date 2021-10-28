@@ -34,15 +34,17 @@ layout: default
           <p class="margin-bottom-0">Quantity:</p>
 
           {% for style in page.styles %}
-            {% if style.quantity == 0 %}
-              <b id="select_product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: we had Kevin none"{% endunless %}>SOLD OUT</b>
-            {% else %}
-              <select class="item_Quantity" id="select_product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
-              {% for qty in (1..style.quantity) %}
-                <option value="{{qty}}"> {{qty}} </option>
-              {% endfor %}
-              </select>
-            {% endif %}
+            <div id="select_product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
+              {% if style.quantity == 0 %}
+                <b>SOLD OUT</b>
+              {% else %}
+                <select class="item_Quantity">
+                {% for qty in (1..style.quantity) %}
+                  <option value="{{qty}}"> {{qty}} </option>
+                {% endfor %}
+                </select>
+              {% endif %}
+            </div>
           {% endfor %}
           <!-- <a id="item_add" class="item_add button" href="javascript:;"> Add to Cart </a> -->
         </section>
