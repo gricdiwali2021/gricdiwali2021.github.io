@@ -35,9 +35,9 @@ layout: default
 
           {% for style in page.styles %}
             {% if style.quantity == 0 %}
-              <b id="product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>SOLD OUT</b>
+              <b id="select_product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: we had Kevin none"{% endunless %}>SOLD OUT</b>
             {% else %}
-              <select class="item_Quantity" id="product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
+              <select class="item_Quantity" id="select_product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
               {% for qty in (1..style.quantity) %}
                 <option value="{{qty}}"> {{qty}} </option>
               {% endfor %}
