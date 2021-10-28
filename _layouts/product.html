@@ -30,8 +30,7 @@ layout: default
               <div id="product-{{ forloop.index }}"{% if forloop.first %} class="item_color"{% endif %}><span class="display-block">{{ style.name }}</span></div>
               {% endfor %}
         	</div>
-        </section>
-        <section>
+        <span>
           <p class="margin-bottom-0">Quantity:</p>
           {% for style in page.styles %}
             <div id="qty-product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
@@ -47,6 +46,7 @@ layout: default
             </div>
           {% endfor %}
           <!-- <a id="item_add" class="item_add button" href="javascript:;"> Add to Cart </a> -->
+        </span>  
         </section>
 
       </main>
