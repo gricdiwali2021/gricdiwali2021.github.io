@@ -32,6 +32,7 @@ layout: default
         	</div>
 
           <p class="margin-bottom-0">Quantity:</p>
+          <div class="styles">
           {% for style in page.styles %}
             <div id="product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
               {% if style.quantity == 0 %}
@@ -45,6 +46,7 @@ layout: default
               {% endif %}
             </div>
           {% endfor %}
+          </div>
           <!-- <a id="item_add" class="item_add button" href="javascript:;"> Add to Cart </a> -->
         </section>
 
