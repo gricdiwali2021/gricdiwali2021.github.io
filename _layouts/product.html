@@ -33,15 +33,14 @@ layout: default
         	</div>
 
           <p class="margin-bottom-0">Quantity:</p>
-          <select class="item_Quantity">
-            <option value="1"> 1 </option>
-            <option value="2"> 2 </option>
-            <option value="3"> 3 </option>
-            <option value="4"> 4 </option>
-            <option value="5"> 5 </option>
-            <option value="6"> 6 </option>
-          </select>
 
+          {% for style in page.styles %}
+            <select class="item_Quantity">
+            {% for qty in (1..style.quantity) %}
+              <option value="{{qty}}"> {{qty}} </option>
+            {% endfor %}
+            </select>
+          {% endfor %}
           <!-- <a id="item_add" class="item_add button" href="javascript:;"> Add to Cart </a> -->
         </section>
 

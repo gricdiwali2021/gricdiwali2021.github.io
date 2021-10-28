@@ -6,7 +6,7 @@ styles:
   - name:
     color:
     image_path:
-    sold: 
+    quantity:
 featured_image_path:
 facebook_image_path:
 ---
