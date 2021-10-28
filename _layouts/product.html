@@ -34,7 +34,7 @@ layout: default
           <p class="margin-bottom-0">Quantity:</p>
 
           {% for style in page.styles %}
-            <div id="select_product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
+            <div id="product-{{ forloop.index }}" class="style" {% unless forloop.first %}style="display: none"{% endunless %}>
               {% if style.quantity == 0 %}
                 <b>SOLD OUT</b>
               {% else %}
