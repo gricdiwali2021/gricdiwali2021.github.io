@@ -7,6 +7,10 @@ styles:
     color: 01
     quantity: 0
     image_path: /images/products/single/1.jpg
+  - name: 6
+    color: 6
+    quantity: 2
+    image_path: /images/products/single/6.jpg    
   - name: 10
     color: 10
     quantity: 0    

@@ -11,10 +11,6 @@ styles:
     color: 5
     quantity: 1
     image_path: /images/products/pair/5.jpg
-    - name: 6
-      color: 6
-      quantity: 1
-      image_path: /images/products/pair/6.jpg
   - name: 7
     color: 7
     quantity: 1
