@@ -11,13 +11,17 @@ styles:
     color: 5
     quantity: 1
     image_path: /images/products/pair/5.jpg
+    - name: 6
+      color: 6
+      quantity: 1
+      image_path: /images/products/pair/6.jpg
   - name: 7
     color: 7
     quantity: 1
     image_path: /images/products/pair/7.jpg    
   - name: 11
     color: 11
-    quantity: 3    
+    quantity: 2   
     image_path: /images/products/pair/11.jpg
   - name: 9
     color: 9
@@ -34,4 +38,4 @@ styles:
 featured_image_path: /images/products/pair/15.jpg
 ---
 
-Beautiful hand made diyas, perfect for decorating around the house.
+Beautiful hand made diyas holders, perfect for decorating around the house.
